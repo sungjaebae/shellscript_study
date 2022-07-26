@@ -1,0 +1,14 @@
+total 328
+drwxrwxr-x 4 ubuntu ubuntu   4096 May 22  2020 .
+drwxrwxr-x 3 ubuntu ubuntu   4096 Jul 26 07:25 ..
+drwxrwxr-x 2 ubuntu ubuntu   4096 May 20  2020 File
+-rw-rw-r-- 1 ubuntu ubuntu     60 May 21  2020 Separator.txt
+-rw-rw---- 1 ubuntu ubuntu  65942 May 15  2020 aa.txt
+-rw------- 1 ubuntu ubuntu     30 May 19  2020 amin.txt
+-rw-rw---- 1 ubuntu ubuntu  65942 May 15  2020 bb.txt
+-rw-rw-r-- 1 ubuntu ubuntu    750 May 13  2020 expression.tar.gz
+-rw------- 1 ubuntu ubuntu    717 May 21  2020 expression.txt
+-rw-rw-r-- 1 ubuntu ubuntu      0 May 22  2020 findtestfile
+-rwxr-xr-x 1 ubuntu ubuntu 159024 May 13  2020 grep-test
+drwxrwxr-x 2 ubuntu ubuntu   4096 May 21  2020 pattern
+-r--r--r-- 1 ubuntu ubuntu    721 May 19  2020 test.txt

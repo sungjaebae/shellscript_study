@@ -1,0 +1,3 @@
+-rw-rw----. aa.txt
+-rw-------. amin.txt
+-rw-rw----. bb.txt

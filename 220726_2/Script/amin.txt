@@ -1,0 +1,3 @@
+amin test
+cmin test
+cmin test
