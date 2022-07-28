@@ -1,6 +1,6 @@
 total 328
 drwxrwxr-x 4 ubuntu ubuntu   4096 May 22  2020 .
-drwxrwxr-x 3 ubuntu ubuntu   4096 Jul 26 07:25 ..
+drwxrwxr-x 3 ubuntu ubuntu   4096 Jul 26 08:09 ..
 drwxrwxr-x 2 ubuntu ubuntu   4096 May 20  2020 File
 -rw-rw-r-- 1 ubuntu ubuntu     60 May 21  2020 Separator.txt
 -rw-rw---- 1 ubuntu ubuntu  65942 May 15  2020 aa.txt
